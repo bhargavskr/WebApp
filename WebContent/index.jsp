@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="registration.html"> Click to register </a>
+<a href="registration.html"> Click to rvnbvbegister </a>
 </body>
 </html>
