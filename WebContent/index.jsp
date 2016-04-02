@@ -8,8 +8,8 @@
 </head>
 <body>
 
-<a href="registration.html"> Clicbmnbnk hgjh to register </a>
+<a href="registration.html"> Clicbmnbnk hgjh tokh register </a>
 
->>>>>>> master
+<h1></h1>
 </body>
 </html>
