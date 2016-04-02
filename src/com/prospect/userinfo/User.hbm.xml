@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-mapping>
+<class name="com.prospect.userinfo.User" table="users">
+<id name="userName" column="username"/>
+<property name="password" column="password"/>
+<property name="firstname" column="firstname"/>
+<property name="lastname" column="lastname"/>
+</class>
+</hibernate-mapping>
