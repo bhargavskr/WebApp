@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 <a href="registration.html"> Clicbmnbnk hgjh to register </a>
+
+>>>>>>> master
 </body>
 </html>
