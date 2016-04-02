@@ -7,7 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 <b>jk</b>
 <a href="registration.html"> Click to rvnbvbegister </a>
+
+
+
 </body>
 </html>
